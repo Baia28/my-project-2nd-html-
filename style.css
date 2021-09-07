@@ -1,0 +1,98 @@
+ul {
+  list-style-type: none;
+  margin-left: 20px;
+  padding:0;
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+}
+.secondli
+{
+  color: blue;
+}
+#mtavari{
+  color: red;
+}
+#satauri{
+  color: red;
+}
+.surati
+{
+  padding-top: 5px;
+  padding-bottom:20px;
+  padding-left: 80px;
+  padding-right: 0px;
+}
+
+#iconcontainer{
+  padding-left: 60px;
+}
+.icons{
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#siaxleebi{
+  color: red;
+}
+.tarigi{
+  color: white;
+  padding-left: 8px;
+  padding-bottom: 20px;
+  margin: 2px;
+}
+.tarigibackground{
+  background:darkblue; 
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin-left: 15px;
+}
+.tve{
+  color: blue;
+  font-size: 18px;
+  margin-top: 2px;
+  margin-left: 18px;
+}
+.teqsti{
+  font-size: 18px;
+  margin-left: 18px;
+}
+.picture{
+  padding-left: 18px;
+}
+.statiisteqsti{
+font-size: 15px;
+margin-left: 18px;
+margin-top: 3px;
+}
+#kontaqti{
+  color: red;
+}
+#contactinfo{
+  color: blue;
+  text-align: center;
+  margin-top: 150px;
+}
+.information{
+  color: grey;
+  text-align: center;
+  margin: 0px;
+  display: inline-block;
+}
+.infoblack{
+  display: inline-block;
+  margin: 0px;
+}
+.divclass{
+  text-align:center;
+  margin: 0px;
+  padding: 0px;
+}
+#iconcontainerforcontact{
+  margin-top: 250px;
+  padding-left: 15px;
+}
